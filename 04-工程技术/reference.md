@@ -6,6 +6,7 @@
 - spring框架
   - 注解
 - mybatis
+  - 事务
 
 # 前端框架
 - react
